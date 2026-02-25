@@ -1,0 +1,17 @@
+.outline1 {
+    padding: 5px;
+    outline-style: solid;
+    outline-color: red;
+outline-width: thick;
+outline-width: 8px;
+outline-style: dashed;
+}
+.outline2 {
+    padding: 5px;
+    outline: 5px solid blue;
+}
+.outline3 {
+    padding: 5px;
+    outline: 5px solid green;
+    outline 
+}
